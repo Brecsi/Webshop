@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Áru 1",
+      "price": 1500,
+      "quantity": 97,
+      "type": "tejtermék"
+    },
+    {
+      "id": 2,
+      "name": "Áru 2",
+      "price": 2500,
+      "quantity": 15,
+      "type": "hús"
+    },
+    {
+      "id": 3,
+      "name": "Áru 3",
+      "price": 3500,
+      "quantity": 25,
+      "type": "kenyér"
+    },
+    {
+      "id": 5,
+      "name": "Áru 5",
+      "quantity": 400,
+      "price": 45000,
+      "type": "sajt"
+    },
+    {
+      "id": "lb6ex26bbzg29dkxowj",
+      "name": "Anyukád",
+      "quantity": "999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999",
+      "price": "0",
+      "type": "dagadt"
+    }
+  ]
+}
